@@ -60,3 +60,4 @@ O descarte irregular de aparelhos eletrônicos prejudica o meio ambiente e pode 
 | `Victor Gabriel` | `[Atividade 00 e 01]` |
 | `Thiago Felipelli` | `[Atividade 00 e 01]` |
 | `Vitor Cordeiro` | `[Atividade 00 e 01]` |
+| `Jair Siqueira` | `[Atividade 00 e 01]` |
