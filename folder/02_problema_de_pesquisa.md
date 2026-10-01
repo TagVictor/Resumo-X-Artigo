@@ -39,3 +39,4 @@ Pergunta de pesquisa aprovada.
 | `Victor Gabriel` | `00,01,02` |
 | `Vitor Cordeiro` | `00,01,02` |
 | `Thiago Felipelli` | `00,01,02` |
+| `Jair Siqueira` | `00,01,02` |
