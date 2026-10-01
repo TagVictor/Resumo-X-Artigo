@@ -21,7 +21,7 @@ Dados Assustadores: A autora usa números de relatórios globais e da ABREE (Ass
 O X da Questão (Educação): Como a autora estuda o ensino básico, o foco principal é que o buraco é mais embaixo. Não adianta só colocar lixeiras e pontos de coleta se as pessoas não sabem por que e como descartar. O problema também é educacional e cultural.]`
 
 * Leitor responsável: `[Thiago Felipelli Froes]`
-* Data da leitura: `[dd/mm/aaaa]`
+* Data da leitura: `[01/10/2026]`
 
 ## Fichamento
 
