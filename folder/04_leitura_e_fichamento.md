@@ -18,8 +18,8 @@ Periódico: Fórum Ambiental da Alta Paulista, v. 20, n. 3, p. 194-208, 2024.]`
 
 Dados Assustadores: A autora usa números de relatórios globais e da ABREE (Associação Brasileira de Reciclagem de Eletroeletrônicos) para mostrar que o Brasil joga fora montanhas de eletrônicos cheios de materiais valiosos (e tóxicos).
 
-O X da Questão (Educação): Como a autora estuda o ensino básico, o foco principal é que o buraco é mais embaixo. Não adianta só colocar lixeiras e pontos de coleta se as pessoas não sabem por que e como descartar. O problema também é educacional e cultural.
-*  ]`
+O X da Questão (Educação): Como a autora estuda o ensino básico, o foco principal é que o buraco é mais embaixo. Não adianta só colocar lixeiras e pontos de coleta se as pessoas não sabem por que e como descartar. O problema também é educacional e cultural.]`
+
 * Leitor responsável: `[Thiago Felipelli Froes]`
 * Data da leitura: `[dd/mm/aaaa]`
 
