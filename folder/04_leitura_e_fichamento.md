@@ -27,7 +27,8 @@ O X da Questão (Educação): Como a autora estuda o ensino básico, o foco prin
 
 ### Problema investigado
 
-`[preencher]`
+`[o problema que o artigo aborda é o por que a geração de lixo eletrônico aumenta tanto no Brasil, e o artigo 
+comenta sobre a taxa de reciclagem e o descarte correto e continuam extremamente baixos, mesmo com leis de logística reversa já em vigor? ]`
 
 ### Objetivo do estudo
 
