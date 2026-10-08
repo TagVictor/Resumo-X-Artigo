@@ -8,51 +8,51 @@ Considerando *INTRODUÇÃO*, *METODOLOGIA*, *REVISÃO DA LITERATURA*, *SÍNTESE 
 
 # Título
 
-`[Título claro e coerente com o tema]`
+`O impacto da sociedade do lixo eletrônico e como reciclar]`
 
 ## Palavras-chave
 
-`[palavra 1]; [palavra 2]; [palavra 3]`
+`[Impacto social]; [Lixo eletrônico]; [reciclagem]`
 
 ## Introdução
 
-`[Apresente contexto, foco, problema ou lacuna, justificativa e objetivo.]`
+`[O lixo eletrônico causa um impacto na sociedade e precisamos reciclar o lixo eletrônico.]`
 
 ## Metodologia
 
-`[Informe o tipo de revisão, bases, estratégias de busca, período, critérios, triagem e forma de análise.]`
+`[O descarte de lixo eletronico merece especial atenção, pois oferece seríssimos impactos sociais e ambientais ao planeta. Para entender porque é importante precisamos entender como funciona o Lixo eletronico. O Lixo eletrônico também conhecido como e-lixo ou REEE — Resíduos de Equipamentos Elétricos e Eletrônicos é todo aparelho elétrico ou eletrônico que foi descartado, quebrou, ficou obsoleto ou não tem mais utilidade para o usuário, de usuários ativos, no Brasil, cerca de 230 Milhões estão ativos e não só celulares, mas também, em computadores, tablets e outros eletrônicos e não apenas um ativo, mas vários em um só lugar.]`
 
 ## Revisão da literatura
 
 ### `[Eixo 1]`
 
-`[Compare estudos, resultados, métodos e limitações.]`
+`[SOS Amazônia fez uma pesquisa sobre o assunto e o certo a se fazer é consultar a a destinação dos aparelhos em locais de coleta de lixo eletrônico. Em sites como da Associação Brasileira de Reciclagem de Eletroeletrônicos e Eletrodomésticos (abree.org.br), Green Eletron (https://greeneletron.org.br/) e eCycle (https://www.ecycle.com.br/), é possível consultar pontos de descarte mais próximos. Além disso, o Ministério do Meio Ambiente também possui pontos para coleta em diversas cidades. porem a limitação desse ajuda é que vc precisa achar os sites certos para ela.]`
 
 ### `[Eixo 2]`
 
-`[Compare estudos, resultados, métodos e limitações.]`
+`[Fazer a reciclagem com máquinas especializadas ou manualmente da eureciclo pois o maior problema é ter o máximo de cuidado e especialização para fazer manualmente pois fazer isso pode prejudicar muito a pessoa.]`
 
 ### Síntese crítica
 
-`[Apresente tendências, convergências, divergências e lacunas.]`
+`[As pessoas costumam ignorar esse porém se isso não for resolvido pode acabar prejudicando tanto a sociedade tanto o meio ambiente.]`
 
 ## Considerações finais
 
-`[Responda ao problema, interprete os achados, destaque avanços e limitações e indique implicações futuras específicas.]`
+`[A melhor maneira de descarte sempre perguntando para um especialista ou levando para um centro de reciclagem aprovado pelo ministério do Brasil.]`
 
 ## Resumo
 
-`[Escreva por último: contexto breve, objetivo, método, principais achados e conclusão.]`
+`[Nosso objetivo é mostrar oq o impacto do lixo eletrônico está afetando as pessoas e como resolver isso e mostrar o quão ruim é não reciclar o lixo eletrônico.]`
 
 ## Referências
 
-`[Liste apenas as fontes citadas, conforme o padrão solicitado.]`
+`[Green Eletron, eureciclo, ecycle e SOS Amazônia]`
 
 ## Checklist
 
-* [ ] A introdução termina com o objetivo.
-* [ ] A metodologia descreve o processo realmente realizado.
-* [ ] A revisão compara os artigos.
-* [ ] A conclusão responde ao problema.
-* [ ] O resumo representa o texto completo.
+* [x] A introdução termina com o objetivo.
+* [x] A metodologia descreve o processo realmente realizado.
+* [x] A revisão compara os artigos.
+* [x] A conclusão responde ao problema.
+* [x] O resumo representa o texto completo.
 
