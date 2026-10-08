@@ -45,15 +45,27 @@ Ela mergulhou em leis (como as que falam sobre o lixo no Brasil), artigos e livr
 
 ### Contexto, amostra ou dados
 
-`[preencher]`
+`[Os principais resultados que a autora traz no artigo mostram que o lixo eletrônico é um desafio que não se resolve de forma isolada. Aqui estão os pontos centrais descobertos pela pesquisa:
+
+O problema é múltiplo: O estudo aponta que o crescimento acelerado da tecnologia e a mania de trocar de aparelho rápido geram uma tonelada de resíduos perigosos que afetam diretamente o meio ambiente e a saúde. Ou seja, não é só um problema de lixo comum; ele envolve falhas na cadeia logística e falta de conscientização.
+
+A lei existe, mas a prática falha: Embora o Brasil tenha marcos legais importantes (como a Política Nacional de Resíduos Sólidos e decretos específicos de logística reversa para eletrônicos), na ponta da linha o sistema ainda é frágil.]`
 
 ### Principais resultados
 
-`[preencher]`
+`[Em resumo, a pesquisa mostra que o lixo eletrônico não é só um problema de "onde jogar o aparelho velho", mas um nó bem difícil de desatar que envolve três frentes: leis que nem sempre funcionam na prática, a falta de uma logística que recolha tudo isso direito, e a carência de educação da sociedade.
+
+A grande conclusão é que colocar regras no papel ou criar pontos de coleta não adianta muita coisa se as pessoas não entenderem o impacto do que consomem. Por isso, a educação (principalmente dentro das escolas) entra como a chave principal para mudar a nossa relação com a tecnologia e salvar o meio ambiente.]`
 
 ### Limitações apresentadas
 
-`[preencher]`
+`[Como o estudo foi feito em cima de textos e leis (uma pesquisa bibliográfica), ele naturalmente esbarra em algumas barreiras:
+
+Falta de testes na vida real: Como a autora não foi a campo ver o dia a dia de uma cooperativa de reciclagem ou aplicar testes em escolas, o trabalho fica mais no plano das ideias e das leis do que na prática do que rola nas ruas.
+
+Retrato que envelhece rápido: O mundo da tecnologia e as regras de lixo eletrônico mudam o tempo todo. Um estudo baseado no que já foi escrito acaba olhando para um cenário que pode mudar rapidinho.
+
+Visão geral demais: Por tentar abraçar três áreas gigantes (leis, logística e educação), o artigo acaba pincelando os temas de forma ampla, sem conseguir aprofundar tanto os detalhes de como resolver cada probleminha prático no dia a dia.]`
 
 ### Contribuição para o nosso artigo
 
