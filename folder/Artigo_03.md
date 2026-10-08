@@ -69,23 +69,35 @@ Visão geral demais: Por tentar abraçar três áreas gigantes (leis, logística
 
 ### Contribuição para o nosso artigo
 
-`[Explique como este estudo ajuda a responder à pergunta da revisão.]`
+`[Apoio à fundamentação teórica: Embora o nosso foco seja prático e voltado para uma solução digital, o artigo ajuda a justificar o porquê o problema é grave, unindo os impactos sociais e ambientais do lixo eletrônico.
+
+O valor da educação e da informação: O estudo reforça que o grande calcanhar de Aquiles do descarte correto não é apenas a falta de leis, mas a falta de informação e conscientização da sociedade — exatamente a dor que a nossa solução digital pretende resolver.
+
+Alinhamento de escopo: Como o artigo também deixa de lado os processos industriais pesados e foca na interface entre sociedade, leis e educação, ele serve de base conceitual perfeita para validar que o nosso projeto ataca o problema no elo humano e informacional (aproximando o usuário do ponto de coleta).]`
 
 ### Comentário crítico
 
-`[Registre forças, fragilidades, concordâncias ou divergências.]`
+`[Em resumo, nosso comentário crítico sobre o artigo aponta que:
+
+Forças: O estudo acerta ao tratar o lixo eletrônico como um problema social e educacional, e não apenas técnico.
+
+Fragilidades: O trabalho fica muito no plano teórico das leis e acaba não trazendo ferramentas práticas para mudar a realidade do cidadão.
+
+Concordância: Batemos com a autora na ideia de que a falta de informação e de orientação é o maior obstáculo para o descarte correto.
+
+Nossa Diferença: Enquanto o artigo foca na teoria e na legislação, o nosso projeto traz a resposta prática: uma solução digital que facilita a vida das pessoas e encurta a distância até os pontos de coleta.]`
 
 ### Citação literal opcional
 
-> `[trecho exato]`
+> `["Diante da expansão global do consumo de eletroeletrônicos, aliada à obsolescência de dispositivos, o descarte de resíduos eletroeletrônicos (REEE) torna-se um problema urgente [que exige] repensar não apenas as estruturas logísticas e as exigências legais, mas fundamentalmente o papel da educação e da conscientização social na transformação de hábitos de consumo e descarte."]`
 
-Página: `[número]`
+Página: `[195]`
 
 ## Checklist
 
-* [ ] O artigo foi lido além do resumo.
-* [ ] O método e os resultados foram identificados.
-* [ ] As limitações foram registradas.
-* [ ] A conexão com o tema foi explicada.
-* [ ] Toda citação literal contém página.
+* [v] O artigo foi lido além do resumo.
+* [v] O método e os resultados foram identificados.
+* [v] As limitações foram registradas.
+* [v] A conexão com o tema foi explicada.
+* [v] Toda citação literal contém página.
 
