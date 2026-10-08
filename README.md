@@ -3,7 +3,7 @@
 - Curso e disciplina: `[Desing Profissoonal]`
 - Professor ou orientador: `[Isabella Luiza]`
 - Grupo: `[preencher]`
-- Integrantes: `[Victor gabriel, Vitor Cordeiro, Tiago felipelli]`
+- Integrantes: `[Jair, Vitor Cordeiro, Thiago felipelli]`
 - Data de início: `[24/09/2026]`
 
 
