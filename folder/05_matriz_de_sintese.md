@@ -7,8 +7,8 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 ## Eixos da revisão
 
 1. `[Eixo ou subtema 1]`
-2. `[Eixo ou subtema 2]`
-3. `[Eixo ou subtema 3, se necessário]`
+2. `[Eixo: O artigo 2 ele se relaciona com os demais porque ele aborda um tema muito importante que é a reciclagem, e ele cria uma solução que é um protótipo de um aplicativo o AppCycle.]`
+4. `[Eixo ou subtema 3, se necessário]`
 
 ## Matriz de síntese
 
