@@ -39,12 +39,13 @@ Eixo|Artigos relacionados|Convergências|Divergências|Limitações|Lacunas|
 
 ## Síntese crítica provisória
 
-`[Escreva um parágrafo indicando tendências, divergências e lacunas.]`
+`[Os três estudos concordam que o descarte inadequado de lixo eletrônico é um problema crescente e que o cidadão é o elo que decide o destino do aparelho, mas explicam a baixa adesão por caminhos diferentes. A mapeia os determinantes psicológicos e de acesso em 50 estudos majoritariamente quantitativos. C atribui o problema à falta de conscientização e propõe a educação ambiental escolar. B oferece um aplicativo de agendamento e localização de pontos de coleta. A principal divergência está no papel da conscientização: para C ela explica a ineficácia da coleta, enquanto A mostra que consumidores informados também deixam de descartar por falta de acesso, e que incentivos econômicos aparecem como fator forte (A e B). A principal tendência é tratar o cidadão como alvo de informação ou de conveniência. As lacunas mais sustentadas pelas leituras são a ausência de avaliação de eficácia das intervenções (C e B), a pouca evidência com comportamento real, em vez de intenção, e em amostras brasileiras, e a falta de discussão sobre privacidade de dados, que A identifica como barreira e como lacuna, e que B, ao armazenar dados pessoais de usuários, não aborda.
+]`
 
 ## Checklist
 
-* [ ] Os artigos foram agrupados por ideias.
-* [ ] Há comparações entre estudos.
-* [ ] As divergências foram registradas.
-* [ ] As lacunas são específicas e sustentadas pelas leituras.
+* [x] Os artigos foram agrupados por ideias.
+* [x] Há comparações entre estudos.
+* [x] As divergências foram registradas.
+* [x] As lacunas são específicas e sustentadas pelas leituras.
 
