@@ -7,7 +7,7 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 ## Identificação
 
 - Grupo: `[preencher]`
-- Integrantes: `Victor Gabriel RGM: 48161489 | Thiago Felipelli RGM: 46653040 | Vitor Cordeiro RGM:481257`| `Jair Siqueira RGM:46975471` 
+- Integrantes: `Thiago Felipelli RGM: 46653040 | Vitor Cordeiro RGM:481257`| `Jair Siqueira RGM:46975471` 
 - Data: `24/09/2026`
 
 ## Preenchimento
