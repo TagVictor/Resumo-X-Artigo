@@ -14,7 +14,7 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 
 |Eixo|Artigos relacionados|Convergências|Divergências|Limitações|Lacunas|
 |-|-|-|-|-|-|
-|`[preencher]`|`[autores/anos]`|`[preencher]`|`[preencher]`|`[preencher]`|`[preencher]`|
+|`Comportamento e conscientização`|`A, C, B`|`Os três colocam o cidadão como peça central e apontam a falta de conhecimento como problema. C cita pesquisa da Green Eletron: 75% não sabem que todo eletroeletrônico pode ser reciclado (p. 201-202). B encontrou conhecimento limitado entre 61 respondentes (p. 2132). A mostra que conscientização é um dos 7 temas dominantes (p. 1366).`|`C trata a conscientização como causa direta da baixa adesão. A mostra resultado misto: Kummer et al. (2022) e Zhang et al. (2020) acharam relação positiva com o descarte correto, mas Islam et al. (2020, 2021), Pereira et al. (2014) e Ramzan et al. (2019) encontraram consumidores conscientes que não descartam bem por falta de acesso ou de conhecimento prático (p. 1368). Só C e A tratam obsolescência programada e psicológica (p. 1369).`|`C não traz dados empíricos próprios sobre comportamento. B usa amostra de 61 pessoas, 85,2% estudantes, de um só município, com respostas autodeclaradas. A não avaliou a qualidade metodológica dos 50 estudos (p. 1372).`|`A aponta como lacunas obsolescência planejada e psicológica, hábito, desejabilidade social e motivos do armazenamento domiciliar (p. 1373). Também só 4 dos 50 estudos de A são brasileiros (p. 1362). Falta medir comportamento real de adultos, não só intenção.`|
 
 ## Roteiro da revisão da literatura
 
