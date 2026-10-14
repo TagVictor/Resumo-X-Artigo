@@ -18,7 +18,7 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 
 Eixo|Artigos relacionados|Convergências|Divergências|Limitações|Lacunas|
 |-|-|-|-|-|-|
-|`[Eixo 2]`|`[João Carvalho, Bruno Pereira, Sandra Sousa, Cristina, Véreb, Vanda, Gouveia, António Jorge. 2024 ]`|`[preencher]`|`[preencher]`|`[preencher]`|`[preencher]`|
+|`[Eixo 2]`|`[João Carvalho, Bruno Pereira, Sandra Sousa, Cristina, Véreb, Vanda, Gouveia, António Jorge. 2024 ]`|`[C diz que a logística reversa enfrenta desafios de coleta no Brasil. A identifica “conveniência da infraestrutura” como variável recorrente, com relação positiva com a intenção de descarte (p. 1366). B coloca o mapa de pontos de coleta como funcionalidade mais valorizada: 93,4% a consideram a mais importante (p. 2132).]`|`[C analisa o sistema como um todo (legislação e atores). B oferece uma ferramenta para o usuário. A só trata infraestrutura como variável de modelo, aparecendo em 4 estudos. C atribui a falha da coleta à desarticulação dos atores (p. 200) e à falta de conscientização (p. 205).]`|`[C documenta metas não cumpridas, mas é revisão narrativa. B tem só protótipo de interface e navegação, sem back-end implementado (p. 2128), restrito a Vila Real.]`|`[Falta evidência de que facilitar o acesso (mapa, agendamento) aumenta a coleta. A aponta o armazenamento domiciliar como tema pouco explorado (4 estudos, p. 1368), mas ninguém liga isso à baixa captação dos pontos de entrega.]`|
 
 
 ## Roteiro da revisão da literatura
@@ -32,10 +32,10 @@ Eixo|Artigos relacionados|Convergências|Divergências|Limitações|Lacunas|
 
 ### Eixo 2
 
-* Ideia principal: `[preencher]`
-* Evidências que serão usadas: `[preencher]`
-* Comparação entre estudos: `[preencher]`
-* Ligação com o problema: `[preencher]`
+* Ideia principal: `[ o sistema formal existe, mas não captura o que deveria, e o acesso conveniente ao ponto de coleta é um fator comportamental, não só logístico.]`
+* Evidências que serão usadas: `[de C, a meta de 2021 de 10.924 t contra 1.245 t coletadas (11,4%), as metas do Decreto 10.240/2020 e a desarticulação dos atores (p. 200-201). De A, a conveniência da infraestrutura como variável (p. 1366). De B, o mapa e o agendamento (p. 2131-2132).]`
+* Comparação entre estudos: `[C descreve a falha em nível macro. A explica o efeito em nível individual. B tenta resolver no nível do usuário, mas sem medir resultado.]`
+* Ligação com o problema: `[mostra que parte da baixa adesão é de acesso, e que ferramentas digitais são uma hipótese plausível, ainda não testada.]`
 
 ## Síntese crítica provisória
 
